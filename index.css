@@ -98,7 +98,7 @@ nav ul li a:hover::after{
     /* background-color: grey; */
     border-radius: 50px;
     text-align: center;
-    margin: 25px;
+    margin: 20px;
     /* box-shadow: 2px 8px 4px 8px white; */
 }
 
